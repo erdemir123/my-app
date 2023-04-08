@@ -22,6 +22,9 @@ module.exports = {
       },
       boxShadow:{
         card:"21px 27px 50px -8px rgba(212, 178, 178 ,0.17)"
+      },
+      borderRadius:{
+        card:"25px"
       }
     },
   },
